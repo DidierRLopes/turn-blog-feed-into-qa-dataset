@@ -1,5 +1,7 @@
 # Blog Feed to QA Dataset Converter
 
+![Blog Feed to QA Dataset Converter](assets/cover.png)
+
 This project converts blog feed content into a structured Question-Answer dataset using LLaMA 3.2 (via Ollama) for local processing.
 
 The generated dataset follows a conversational format and can be automatically pushed to Hugging Face.
